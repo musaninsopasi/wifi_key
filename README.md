@@ -1,1 +1,1 @@
-# bilgisayarınızda ki kayıtlı ağların şifresini öğrenmenizi sağlar
+# bilgisayarınızda ki kayıtlı ağların şifresini öğrenmenizi sağlar.
